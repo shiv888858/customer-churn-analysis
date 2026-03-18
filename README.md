@@ -55,6 +55,19 @@ This analysis can help companies:
 - Design better long-term plans
 
 
+  ## 🔹 Sample Output
+
+### Churn Distribution
+![Churn](ChurnDistribution.png)
+
+### Contract vs Churn
+![Contract](ContractvsChurn.png)
+
+### Tenure vs Churn
+![Tenure](TenurevsChurn.png)
+
+### Monthly Charges vs Churn
+![Charges](MonthlyChargesvsChurn.png)
 ## 🔹 How to Run
 ```bash
 pip install pandas matplotlib seaborn
