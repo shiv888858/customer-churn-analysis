@@ -54,8 +54,7 @@ This analysis can help companies:
 - Improve retention strategies
 - Design better long-term plans
 
-
-  ## 🔹 Sample Output
+## 🔹 Sample Output
 
 ### Churn Distribution
 ![Churn](/screenshots/ChurnDistribution.png)
