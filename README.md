@@ -58,16 +58,16 @@ This analysis can help companies:
   ## 🔹 Sample Output
 
 ### Churn Distribution
-![Churn](ChurnDistribution.png)
+![Churn](/screenshots/ChurnDistribution.png)
 
 ### Contract vs Churn
-![Contract](ContractvsChurn.png)
+![Contract](/screenshots/ContractvsChurn.png)
 
 ### Tenure vs Churn
-![Tenure](TenurevsChurn.png)
+![Tenure](/screenshots/TenurevsChurn.png)
 
 ### Monthly Charges vs Churn
-![Charges](MonthlyChargesvsChurn.png)
+![Charges](/screenshots/MonthlyChargesvsChurn.png)
 ## 🔹 How to Run
 ```bash
 pip install pandas matplotlib seaborn
